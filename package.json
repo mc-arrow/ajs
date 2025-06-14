@@ -1,0 +1,19 @@
+{
+  "name": "@mc-arrow/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mc-arrow/ajs.git"
+  },
+  "author": "mc-arrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mc-arrow/ajs/issues"
+  },
+  "homepage": "https://github.com/mc-arrow/ajs#readme",
+  "description": ""
+}
